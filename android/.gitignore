@@ -1,8 +1,9 @@
+*.iml
+.gradle
+local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
 /build
-/local.properties
-/.idea/
-/.gradle/
-/libs/
-/obj/
-/ffmpeg-kit-android-lib/build/
-*.tmp
+/captures
+gradle
